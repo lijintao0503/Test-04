@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+
     namespace = "com.example.test_04"
     compileSdk {
         version = release(36)
